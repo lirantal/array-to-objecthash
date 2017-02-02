@@ -1,5 +1,5 @@
 {
-  "name": "array-to-object",
+  "name": "array-to-objecthash",
   "version": "1.0.0",
   "description": "Convert array to object hash based on specific key",
   "main": "index.js",

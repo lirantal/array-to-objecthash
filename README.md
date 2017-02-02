@@ -11,13 +11,13 @@ It's useful when you have an array of objects which you wish to normalize into a
 Bold people do:
 
 ```bash
-yarn add array-to-object
+yarn add array-to-objecthash
 ```
 
 The rest can use the mundane:
 
 ```bash
-npm install --save array-to-object
+npm install --save array-to-objecthash
 ```
 
 ## Usage
@@ -39,6 +39,7 @@ If you have the following array of objects:
 You can convert it to an Object hash based on a key of your choosing in the top level object
 
 ```js
+  const convertArrayToHash = require('array-to-objecthash')
   const obj = convertArrayToHash(arr, 'key')
 ```
 
