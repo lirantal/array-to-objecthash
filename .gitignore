@@ -12,3 +12,6 @@ coverage
 # IDE
 *.iml
 .idea
+
+# Docs
+docs
