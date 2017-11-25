@@ -1,5 +1,7 @@
 # Array to Object
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/lirantal/array-to-objecthash.svg)](https://greenkeeper.io/)
+
 Converts an Array of objects to an Object hash
 
 ## Why?
