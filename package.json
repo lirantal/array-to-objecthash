@@ -1,8 +1,4 @@
 {
-  "publishConfig": {
-    "provenance": true,
-    "access": "public"
-  },
   "name": "array-to-objecthash",
   "version": "1.0.1",
   "description": "Convert array to object hash based on specific key",
@@ -44,5 +40,9 @@
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
+  },
+  "publishConfig": {
+    "provenance": true,
+    "access": "public"
   }
 }
